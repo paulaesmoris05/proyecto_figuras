@@ -1,5 +1,6 @@
 from lib import cuadrado, rectangulo
 from lib import cuadrado, triangulo
+from lib import circunferencia
 print("Proyecto figuras")
 print(cuadrado.get_identificador())
 lado=4
